@@ -28,6 +28,6 @@
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-![crontab](https://github.com/timurgithub/backup-homeworks/blob/main/crontab_backup.txt)
+crontab **https://github.com/timurgithub/backup-homeworks/blob/main/crontab_backup.txt**
 
-![Скриншот работы программы](https://github.com/timurgithub/backup-homeworks/blob/main/img/scr_3.png)
+![Скриншот работы программы](https://github.com/timurgithub/backup-homeworks/blob/main/img/scr_2.png)
